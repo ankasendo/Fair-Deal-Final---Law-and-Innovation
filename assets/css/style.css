@@ -368,7 +368,7 @@ footer {
 @media screen and (max-width: 350px) {
 
     #logo {
-        font-size: 8px;
+        font-size: 4px;
         margin-top: -10%;
         float: left;
     }
