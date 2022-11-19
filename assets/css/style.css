@@ -190,8 +190,8 @@ footer {
 
 /*media screens*/
 
-/* for larger  size from 2500 px up and down*/
-@media screen and (max-width: 2500px) {
+/* for larger  size from 2800 px up and down*/
+@media screen and (max-width: 2800px) {
     #ethos {
         height: 600px;
     }
