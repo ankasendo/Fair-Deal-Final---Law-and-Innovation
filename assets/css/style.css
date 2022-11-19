@@ -190,8 +190,8 @@ footer {
 
 /*media screens*/
 
-/* for larger  size from 1700 px up and down*/
-@media screen and (max-width: 1700px) {
+/* for larger  size from 2500 px up and down*/
+@media screen and (max-width: 2500px) {
     #ethos {
         height: 600px;
     }
@@ -201,16 +201,16 @@ footer {
         color: #FFFF;
         text-align: center;
         position: absolute;
-        height: 10px;
+        height: 20px;
         margin-right: 1%;
         margin-left: 99%;
         background-color: rgb(53, 47, 112);
-        font-size: 7px;
-        margin-bottom: 10%;
+        font-size: 14px;
+        margin-bottom: 15%;
 
-        width: 200px;
-        height: 100px;
-        bottom: 200px;
+        width: 300px;
+        height: 200px;
+        bottom: 300px;
 
         padding-top: 20px;
         padding-bottom: 10px;
