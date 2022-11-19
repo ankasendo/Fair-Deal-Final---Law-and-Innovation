@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 * {
     margin: 0;
@@ -9,7 +9,7 @@
 /* font and color */
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: Lato, sans-serif;
     font-weight: 300;
     color: #0F0F0FFF;
 }
@@ -17,8 +17,10 @@ body {
 /* logo and nav bar */
 
 #logo {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
     float: left;
-    font-size: 260%;
     margin-left: 20px;
     line-height: 110px;
     color: #0F0F0FFF;
