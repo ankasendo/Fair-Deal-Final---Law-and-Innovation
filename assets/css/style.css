@@ -190,36 +190,6 @@ footer {
 
 /*media screens*/
 
-/* for larger  size from 2800 px up and down*/
-@media screen and (max-width: 2800px) {
-    #ethos {
-        height: 600px;
-    }
-
-    #cover-text {
-
-        color: #FFFF;
-        text-align: center;
-        position: absolute;
-        height: 20px;
-        margin-right: 1%;
-        margin-left: 99%;
-        background-color: rgb(53, 47, 112);
-        font-size: 14px;
-        margin-bottom: 15%;
-
-        width: 300px;
-        height: 200px;
-        bottom: 300px;
-
-        padding-top: 20px;
-        padding-bottom: 10px;
-    }
-
-   
-}
-
-
 /* for larger to medium screen size from 1300px up and down*/
 @media screen and (max-width: 1300px) {
     #ethos {
@@ -425,10 +395,10 @@ footer {
 
 /*smaller screens media*/
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 480px) {
 
     #logo {
-        font-size: 4px;
+        font-size: 8px;
         margin-top: -10%;
         float: left;
     }
@@ -459,7 +429,7 @@ footer {
         margin-right: -45%;
         background-color: rgb(53, 47, 112);
         font-size: 7px;
-        margin-bottom: -55%;
+        margin-bottom: 1%;
 
         width: 200px;
         height: 100px;
@@ -537,6 +507,6 @@ footer {
 
     .social-networks {
         text-align: center;
-        margin-top: 460%;
+        margin-top: 500%;
     }
 }
