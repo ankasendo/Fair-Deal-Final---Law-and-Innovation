@@ -242,7 +242,7 @@ footer {
 @media screen and (max-width: 950px) {
     #logo {
         float: left;
-        font-size: 100%;
+        font-size: 80%;
         margin-left: 10px;
         line-height: 60px;
         color: #0F0F0FFF;
@@ -296,10 +296,10 @@ footer {
         text-align: center;
         position: absolute;
         height: 5px;
-        margin-left: 60%;
-        margin-right: 5%;
+        margin-left: 70%;
+        margin-right: 3%;
         background-color: rgb(53, 47, 112);
-        font-size: smaller;
+        font-size: 4px;
 
         width: 200px;
         height: 100px;
@@ -364,4 +364,15 @@ footer {
         text-align: center;
         margin-top: 460%;
     }
+}
+/*media for smaller screens*/
+@media screen and (max-width: 500px) {
+    #logo {
+        font-size: 6px;
+    }
+    
+    #cover-text {
+        font-size: 5px;
+    }
+
 }
