@@ -238,7 +238,7 @@ footer {
     @media screen and (max-width: 950px) {
         #logo {
             float: left;
-            font-size: 100%;
+            font-size: 120%;
             margin-left: 20px;
             line-height: 60px;
             color: #0F0F0FFF;
@@ -296,7 +296,7 @@ footer {
             margin-left: 55%;
             margin-right: 5%;
             font-size: 6px;
-            margin-bottom: 5%;
+            margin-bottom: 10%;
 
             width: 150px;
             height: 100px;
