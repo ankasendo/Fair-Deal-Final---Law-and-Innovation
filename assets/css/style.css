@@ -242,7 +242,7 @@ footer {
 @media screen and (max-width: 950px) {
     #logo {
         float: left;
-        font-size: 110%;
+        font-size: 100%;
         margin-left: 10px;
         line-height: 60px;
         color: #0F0F0FFF;
@@ -299,7 +299,7 @@ footer {
         margin-left: 60%;
         margin-right: 5%;
         background-color: rgb(53, 47, 112);
-        font-size: small;
+        font-size: smaller;
 
         width: 200px;
         height: 100px;
