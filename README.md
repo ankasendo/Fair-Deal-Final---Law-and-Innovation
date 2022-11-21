@@ -23,7 +23,7 @@ Featured at the top of the page, the fullly responsive navigation bar includes l
 
 _The landing page image_
 
-The landing includes a photograph with text overlay of some riders enjoying a ride-out. 
+The landing includes a photograph with text overlay of some couple looking at the iPad. 
 This section introduces the user to the objective of the website and it also provides a clickable link to the Calculator app (Created from Josef-legal bot platform)
 
 ![landing]
